@@ -1,6 +1,10 @@
 learning GIT
 my first file
 
+################################################################################
+# Aren't you having fun???
+# This is better than stirring up yellowjackets while getting charged by bears
+################################################################################
 
 Conte Ecology repository created by Dan on GitHub
 
