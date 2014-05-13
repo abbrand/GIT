@@ -1,2 +1,19 @@
 learning GIT
 my first file
+
+
+Conte Ecology repository created by Dan on GitHub
+
+make lots of small changes rather than large changes
+
+git commit -m "inital commit"
+
+local repository - hidden .git file on your computer(see diagram on Conte repository)
+
+push to upstream repository (Github)
+fetch from repository (if you pushed from another location, computer, etc.)
+
+word files are binary so newer versions are recorded but it won't tell you individual changes line-by-line
+text-based file changes are tracked on a line-by-line basis (code, etc.) and will be tracked by user if you are collaborating with others in a shared repository
+
+git diff (checks changes between file versions since last commit) specify file name to check a certain file (i.e. git diff first.txt)
